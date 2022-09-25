@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @firman-lab
 - 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning Android Kotlin Progrmming with kotlin
-- 💞️ I’m looking to collaborate on my Project
+- 🌱 I’m currently learning kotlin, Next Js, Flutter
 - 📫 How to reach me fhidayat400@gmail.com
 
 <!---
